@@ -1,4 +1,5 @@
--- adsr / ar - envelope test script
+-- adsr / ar
+-- envelope test script
 -- v0.1 @sonocircuit
 --
 
